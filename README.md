@@ -60,3 +60,25 @@ $ sawzall copy anothercloudbox user@myremotehost:9999
 ... ssh session follows ...
 
 ```
+
+## Contributing
+
+Fork it: `https://github.com/ryanmaynard/sawzall/fork`
+
+Create your feature branch: `git checkout -b my-new-feature`
+
+Commit your changes: `git commit -am 'Add some feature'`
+
+Push to the branch: `git push origin my-new-feature`
+
+Create a new Pull Request: `https://github.com/ryanmaynard/sawzall/compare`
+
+## License
+
+[MIT TLDR][tldr]
+
+[License Text][license]
+
+
+[tldr]: https://tldrlegal.com/license/mit-license
+[license]: https://github.com/ryanmaynard/sawzall/blob/master/LICENSE
